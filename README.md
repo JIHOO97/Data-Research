@@ -1,9 +1,6 @@
-=============================================
-CODEBOOK FOR cogset_train.csv and cogset_exp.csv
-=============================================
 Description: Raw data for training phases (cogset_train.csv) and experimental phases (cogset_exp.csv)
 
-Species: Human, Capuchin, or Rhesus
+Species: Human, Capuchin, or Rhesus \
 Subject: Individual identifier or name
 Date: Date in yyyy-mm-dd format
 Time: Time in hh:mm:ss format
